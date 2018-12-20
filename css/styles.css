@@ -315,7 +315,8 @@ nav h1 a {
 }
 
 #restaurant-container {
-  width: 38%;
+  width: auto;
+  max-width: 400px;
 }
 
 #reviews-container {
@@ -327,6 +328,7 @@ nav h1 a {
   align-items: flex-start;
   justify-content: flex-start;
 }
+
 #reviews-container h2 {
   color: #d85b5b;
   font-weight: 300;
