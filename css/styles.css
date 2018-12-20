@@ -318,12 +318,6 @@ nav h1 a {
   width: 38%;
 }
 
-@media only screen and (max-width: 443px) {
-  #restaurant-container {
-    width: 100%;
-  }
-}
-
 #reviews-container {
   padding-bottom: 0;
 }
